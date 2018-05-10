@@ -1,0 +1,3 @@
+/root/flinkconnectorkafka/src/main/java/kafka/WriteIntoKafka.java
+/root/flinkconnectorkafka/src/main/java/kafka/jgson.java
+/root/flinkconnectorkafka/src/main/java/kafka/ReadFromKafka.java
